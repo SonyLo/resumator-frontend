@@ -4,7 +4,7 @@
   <rect width="600" height="180" rx="20" fill="url(#paint0_linear)"/>
   
   <!-- Header -->
-  <circle cx="100" cy="100" r="60" fill="white" fill-opacity="0.2"/>
+  <circle cx="100" cy="100" r="60" fill="white" fill-opacity="0.8"/>
   <rect x="180" y="60" width="200" height="16" rx="8" fill="white"/>
   <rect x="180" y="90" width="150" height="10" rx="5" fill="white" fill-opacity="0.7"/>
   <rect x="180" y="110" width="280" height="10" rx="5" fill="white" fill-opacity="0.7"/>
@@ -62,20 +62,20 @@
   <!-- Gradients -->
   <defs>
     <linearGradient id="paint0_linear" x1="0" y1="0" x2="600" y2="180" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#4776E6"/>
-      <stop offset="1" stop-color="#8E54E9"/>
+      <stop stop-color="#00F5A0"/>
+      <stop offset="1" stop-color="#00D9F5"/>
     </linearGradient>
     <linearGradient id="paint1_linear" x1="40" y1="210" x2="190" y2="226" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#4776E6"/>
-      <stop offset="1" stop-color="#8E54E9"/>
+      <stop stop-color="#00F5A0"/>
+      <stop offset="1" stop-color="#00D9F5"/>
     </linearGradient>
     <linearGradient id="paint2_linear" x1="40" y1="485" x2="190" y2="501" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#4776E6"/>
-      <stop offset="1" stop-color="#8E54E9"/>
+      <stop stop-color="#00F5A0"/>
+      <stop offset="1" stop-color="#00D9F5"/>
     </linearGradient>
     <linearGradient id="paint3_linear" x1="40" y1="620" x2="190" y2="636" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#4776E6"/>
-      <stop offset="1" stop-color="#8E54E9"/>
+      <stop stop-color="#00F5A0"/>
+      <stop offset="1" stop-color="#00D9F5"/>
     </linearGradient>
   </defs>
 </svg> 
